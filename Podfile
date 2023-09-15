@@ -17,7 +17,7 @@ target 'WebAuthnKitDemo' do
     pod "PromiseKit", "~> 6.13.1"
     pod "EllipticCurveKeyPair", "~> 2.0"
     pod "KeychainAccess", "~> 4.2.1"
-    pod "CryptoSwift", "~> 1.3.8"
+    pod "CryptoSwift", "~> 1.6.0"
   end
 
   target 'WebAuthnKitTests' do
